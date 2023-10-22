@@ -1,0 +1,10 @@
+INSERT INTO prestations (id,libelle,description) VALUES (1,'Creation site virtine','Augmenter la visibilite de votre entreprise');
+INSERT INTO prestations (id,libelle,description) VALUES (2,'Creation site e-commerce','Augmenter la visibilite de votre boutique en ligne');
+INSERT INTO prestations (id,libelle,description) VALUES (3,'Creation site e-learning','Augmenter la visibilite de vos formations en ligne');
+INSERT INTO prestations (id,libelle,description) VALUES (4,'Creation application web back end','Creer des outils digitaux de gestion via serveurs linux');
+INSERT INTO prestations (id,libelle,description) VALUES (5,'Creation application web front end','Creer des outils digitaux de gestion via ordinateur portable');
+INSERT INTO prestations (id,libelle,description) VALUES (6,'Creation application mobile','Creer des outils digitaux de gestion via smarphones');
+INSERT INTO prestations (id,libelle,description) VALUES (7,'Creation dashbpoard PowerBI','Data Analyst pour vos donnees');
+INSERT INTO prestations (id,libelle,description) VALUES (8,'Analyse complexe de donnees','Data Scientist et Data Engineer pour vos mission en IA');
+INSERT INTO prestations (id,libelle,description) VALUES (9,'Maintenance des Applications et sites web','Heberger et gerer vos serveurs applications et bases de donnees');
+INSERT INTO prestations (id,libelle,description) VALUES (10,'Internet et reseaux MAN','Gerer vos bandes passantes internet et reseaux informatiques de vos agences');
